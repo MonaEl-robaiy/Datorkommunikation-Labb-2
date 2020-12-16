@@ -1,0 +1,12 @@
+Tue Dec 15 16:59:47 CET 2020, KYH/ME/Tempsensor, temperature, 23°C
+Tue Dec 15 16:59:47 CET 2020, KYH/ME/Tempsensor/data, ctrl, -
+Tue Dec 15 16:59:47 CET 2020,KYH/ME/Tempsensor, temperature, 15°C
+Wed Dec 16 16:59:47 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:02:29 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:02:39 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:02:49 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:02:59 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:03:09 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:03:19 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:03:29 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:03:39 CET 2020, KYH/ME/Tempsensor, 20
