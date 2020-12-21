@@ -86,3 +86,40 @@ Wed Dec 16 17:15:56 CET 2020, KYH/ME/Tempsensor, 20
 Wed Dec 16 17:16:06 CET 2020, KYH/ME/Tempsensor, 20
 Wed Dec 16 17:16:16 CET 2020, KYH/ME/Tempsensor, 20
 Wed Dec 16 17:16:26 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:16:36 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:16:46 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:16:56 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:17:06 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:17:16 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:17:26 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:17:36 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:17:46 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:17:56 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:18:07 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:18:17 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:18:27 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:18:37 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:18:47 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:18:57 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:19:07 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:19:17 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:19:27 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:19:37 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:19:47 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:19:57 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:20:08 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:20:18 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:20:28 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:20:38 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:20:48 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:20:58 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:21:08 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:21:18 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:21:28 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:21:38 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:21:48 CET 2020, KYH/ME/Tempsensor, 20
+Wed Dec 16 17:21:58 CET 2020, KYH/ME/Tempsensor, 20
+Mon Dec 21 16:04:30 CET 2020, KYH/ME/Tempsensor, 
+Mon Dec 21 16:16:11 CET 2020, KYH/ME/Tempsensor, 
+Mon Dec 21 16:16:25 CET 2020, KYH/ME/Tempsensor, 
+Mon Dec 21 16:23:19 CET 2020, KYH/ME/Tempsensor, 

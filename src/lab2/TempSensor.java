@@ -10,6 +10,7 @@ public class TempSensor {
     private final String topic = "KYH/ME/Tempsensor";
     private final String broker = "tcp://broker.hivemq.com:1883";
     private final String clientId = "kyh-mona-sens";
+
     private MemoryPersistence memoryPersistence;
 
     public static void main(String[] args) {
@@ -42,8 +43,10 @@ public class TempSensor {
         }
     }
 
-    private String measure() {
-        return "20";
+    public String measure() {
+        TempSensor tempSensor = new TempSensor();
+        int temp = (int) (Math.random() * 10) + 15;
+        return String.valueOf(temp);
     }
 
     private void connect() {

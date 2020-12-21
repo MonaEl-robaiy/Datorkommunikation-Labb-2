@@ -7,7 +7,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.Timer;
 import java.util.TimerTask;
 
-public  class Main {
+public class Main {
 
 
     Timer timer;
